@@ -1,6 +1,7 @@
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/1149e036-41a2-4e04-81fa-98c7468a8163" />
 
-
+<div>
+  <img width="1536" height="1024" alt="logo" src="https://github.com/user-attachments/assets/14e70bb2-61fd-46fd-9fbe-0f95866133c7" />
+</div>
 
 ```html
 <!-- Black Background | Gold (#FFD700) and Red (#FF0000) Accents -->
@@ -56,8 +57,10 @@ const expertise = {
 ```
 
 ## `>> Featured Protocol`
+<div>
+  <img width="1536" height="1024" alt="logo2" src="https://github.com/user-attachments/assets/675fcd01-aa3b-45f0-8153-76e3e8ed2909" />
+</div>
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/86bfc8a5-be6e-43cd-a82b-c83518e2bd0d" />
 
 ### [chatai](https://github.com/whobcode/chatai)
 *Advancing the frontier of human-AI collaboration*
@@ -90,7 +93,9 @@ while (true) {
 
 </div>
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/c23dda86-967a-437b-8d38-12d55111d399" />
+<div>
+  <img width="1536" height="1024" alt="logo3" src="https://github.com/user-attachments/assets/96986a9a-b0ad-4b23-8c8d-0d648e4d14ed" />
+</div>
 
 <style>
   /* Custom CSS for color scheme */
